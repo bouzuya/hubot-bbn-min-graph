@@ -1,6 +1,6 @@
 {
   "name": "hubot-bbn-min-graph",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that display the blog.bouzuya.net minutes in bar graph",
   "main": "index.js",
   "scripts": {
